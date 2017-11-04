@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">学习APP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--string name="api_url">http://47.52.32.134:8001/</string>-->
+    <string name="api_url">http://192.168.1.200:8002/</string>
+    <string name="loading">加载中······</string>
+</resources>
